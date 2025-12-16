@@ -1,7 +1,7 @@
 # Midnight Skin Changer – Customize Your Game Cosmetics
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/gh4brLOwnF4/hqdefault.jpg" alt="Midnight Skin Changer Logo"/>
+  <img src="https://i.ytimg.com/vi/FoZ0Hf_0R8c/maxresdefault.jpg" alt="Midnight Skin Changer Logo"/>
 </p>
 
 <p align="center">
